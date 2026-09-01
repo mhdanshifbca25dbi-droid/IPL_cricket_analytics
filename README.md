@@ -7,6 +7,7 @@ about matches, teams, players, and performance.
 
 ## Project Folder Structure
 
+```text
 ipl-cricket-analytics/
 │
 ├── data/
