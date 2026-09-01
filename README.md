@@ -28,5 +28,11 @@ ipl-cricket-analytics/
 └── requirements.txt
 
 ## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- SQL
 - Git
 - GitHub
